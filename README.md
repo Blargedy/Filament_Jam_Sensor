@@ -2,7 +2,7 @@
 Sensor that detects if the spool or filament gets stuck on the way to the nozzle, or if the filament ran out but didn't get jammed like it usually does
 
 
-![image](https://user-images.githubusercontent.com/25805271/220586424-c24f6881-9a2f-4967-bebe-49f522781902.png)
+![image](https://user-images.githubusercontent.com/25805271/220589939-6455cfb5-a2aa-41d8-b2e0-b7e9962142a5.png)
 
 ![image](https://user-images.githubusercontent.com/25805271/220586563-00bb3905-0ea4-483d-9f1a-a8820eaa070f.png)
 
