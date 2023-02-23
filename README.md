@@ -18,7 +18,7 @@ I sought to solve these issues in my design. The features of the Tasty-Sensor ar
 The primary drawbacks of this design are:
 
 * Needs 6 bearings instead of 3
-* Needs 2 optical endstops instead of 2 (and therefore 2 data lines on the MCU)
+* Needs 2 optical endstops instead of 1 (and therefore 2 data lines on the MCU)
 * Needs more parts printed
 * Needs more fasteners
 * Spring tension cannot be tuned and needs a spring swap for switching from ABS to flexible for example
