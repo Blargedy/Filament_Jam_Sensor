@@ -23,11 +23,11 @@ The primary drawbacks of this design are:
 * Loading filament is slightly harder
 
 
-![image](https://user-images.githubusercontent.com/25805271/221357951-ac97b073-3dd4-4dad-a956-d6344baf1d16.png)
+![image](https://user-images.githubusercontent.com/25805271/221359839-47dba987-1dad-490d-907d-3c242c5a4b7b.png)
 
-![image](https://user-images.githubusercontent.com/25805271/220586563-00bb3905-0ea4-483d-9f1a-a8820eaa070f.png)
+![image](https://user-images.githubusercontent.com/25805271/221359857-2f93749e-09b7-4e1e-baa9-52b849552389.png)
 
-![image](https://user-images.githubusercontent.com/25805271/221358006-48f0283d-2005-4272-8bc1-ce3248720c9b.png)
+![image](https://user-images.githubusercontent.com/25805271/221359872-6cf89379-db94-4af9-949a-0afbb010349a.png)
 
 
 ## Printing Recommendations
