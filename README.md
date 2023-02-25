@@ -13,23 +13,21 @@ I sought to solve these issues in my design. The features of the Tasty-Sensor ar
 * Only a single spring is needed 
 * Plunger runs on bearings to reduce friction
 * TPU tires on bearings let the bearings roll instead of having the filament slide over them
-* Two independant endstops lets you distinguish between a jam and a runout
 
 The primary drawbacks of this design are:
 
 * Needs 6 bearings instead of 3
-* Needs 2 optical endstops instead of 1 (and therefore 2 data lines on the MCU)
 * Needs more parts printed
 * Needs more fasteners
 * Spring tension cannot be tuned and needs a spring swap for switching from ABS to flexible for example
 * Loading filament is slightly harder
 
 
-![image](https://user-images.githubusercontent.com/25805271/220589939-6455cfb5-a2aa-41d8-b2e0-b7e9962142a5.png)
+![image](https://user-images.githubusercontent.com/25805271/221357951-ac97b073-3dd4-4dad-a956-d6344baf1d16.png)
 
 ![image](https://user-images.githubusercontent.com/25805271/220586563-00bb3905-0ea4-483d-9f1a-a8820eaa070f.png)
 
-![image](https://user-images.githubusercontent.com/25805271/220586682-64c26609-9109-4333-8615-07cb50edad2b.png)
+![image](https://user-images.githubusercontent.com/25805271/221358006-48f0283d-2005-4272-8bc1-ce3248720c9b.png)
 
 
 ## Printing Recommendations
