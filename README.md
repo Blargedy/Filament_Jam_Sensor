@@ -68,3 +68,28 @@ The primary drawbacks of this design are:
 
 6. Attach the bearing with the middle filament guide onto plunger with an M3x8 BHCS
 ![image](https://user-images.githubusercontent.com/25805271/227234943-1ed15942-49e8-4245-a044-24d5fd354872.png)
+
+7. Place the plunger onto the vertical channel, then move the tensioner loosely into position
+![image](https://user-images.githubusercontent.com/25805271/227237973-252d94e8-9dff-4a71-a963-ab2dda0b817c.png)
+
+8. Attach the rest of the bearings with M3x10 SHCS
+![image](https://user-images.githubusercontent.com/25805271/227240238-e0293772-fd40-426c-9c33-316e592dc87b.png)
+
+9. Gently push the tensioner into the plunger with your finger, then loosely tighten the set screw so that the tensioner won't back off but not so much that the plunger binds. You must maintain smooth movement. 
+![image](https://user-images.githubusercontent.com/25805271/227241263-07cb394c-fcef-43c9-a0ff-5286db2052a2.png)
+
+10. Insert the spring into the plunger cutout and test to see if you still have full range of motion on the plunger. It must be able to move the same amount with the spring in as without the spring. 
+![image](https://user-images.githubusercontent.com/25805271/227242961-9e0a1054-dff8-4eae-a2ce-60890f22e1e8.png)
+
+11. Install the optical sensor with M3x12 SHCS
+![image](https://user-images.githubusercontent.com/25805271/227244091-b27a08ee-b6ed-40ff-bba2-302c54ab7add.png)
+
+12. Screw on the Pneumatic tube fitments directly into the plastic 
+![image](https://user-images.githubusercontent.com/25805271/227244727-8f25b7d4-f5c6-41a8-80da-b31b089c3977.png)
+
+13. (Optional) Attach the tasty-sensor to your printer frame with the standoffs and M3x25 SHCS
+![image](https://user-images.githubusercontent.com/25805271/227245259-b0b99817-debb-4764-b083-bdb4ab3c0e50.png)
+
+14. Connect Vcc, Signal, and Ground to the optical endstop
+
+15. Configure the correct pin as an endstop
