@@ -39,6 +39,7 @@ The primary drawbacks of this design are:
 * 2pcs PC4-M6 pneumatic fittings
 * 1pcs Optical Sensor
 * 6pcs 623zz bearings
+* 6pcs 5mmOD 3mmID 0.5mmH Shims
 
 ## Printing Recommendations
 
