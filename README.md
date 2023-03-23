@@ -29,6 +29,16 @@ The primary drawbacks of this design are:
 
 ![image](https://user-images.githubusercontent.com/25805271/221359872-6cf89379-db94-4af9-949a-0afbb010349a.png)
 
+## BoM
+* 2pcs M3x8 BHCS
+* 5pcs M3x10 SHCS
+* 2pcs M3x12 SHCS
+* 2pcs M3x25 SHCS
+* 6pcs M3 hex nuts
+* 2pcs M3 5mmWx4mmH threaded heat inserts
+* 2pcs PC4-M6 pneumatic fittings
+* 1pcs Optical Sensor
+* 6pcs 623zz bearings
 
 ## Printing Recommendations
 
@@ -36,3 +46,25 @@ The primary drawbacks of this design are:
 * Print everything else in 0.2mm layer height.
 * Clearances were calibrated for eSun ABS+ and Polymaker ASA. Polymaker ABS could be used but it shrinks slightly more so fitment is tighter. Other filaments are untested.
 * Clearances are sensitive to EM innacuracies and elephants foot so make sure you've tuned those properly.
+
+## Instructions
+1. Melt on the heat inserts
+![image](https://user-images.githubusercontent.com/25805271/227226282-ca1c7612-1707-4485-ae4c-b6217fee5a94.png)
+![image](https://user-images.githubusercontent.com/25805271/227226679-b782c6dd-3696-4428-abd4-2838868713f8.png)
+![image](https://user-images.githubusercontent.com/25805271/227227142-206d96e0-df5e-4d57-8bf8-d581aa96f97b.png)
+
+2. Insert hex nuts, pulling them tight with an M3 bolt
+![image](https://user-images.githubusercontent.com/25805271/227229248-a977f2aa-76f8-42d4-b6d6-e1c509bfa20f.png)
+![image](https://user-images.githubusercontent.com/25805271/227229905-35c2ffd6-263c-4eec-b9c2-0cc05db02c49.png)
+
+3. Press fit the filament guides onto three bearings
+![image](https://user-images.githubusercontent.com/25805271/227231143-e344410b-fe81-48f1-b42c-3b74f1d7c1e0.png)
+
+4. Attach the bearing to the tensioner with an M3x8 BHCS
+![image](https://user-images.githubusercontent.com/25805271/227232908-8bb72c05-f6c6-4784-a370-9b2db857d11e.png)
+
+5. Insert the tensioner into the tensioner pocket
+![image](https://user-images.githubusercontent.com/25805271/227233828-1a1c9a54-965d-4ab9-83c1-5ae4f3944cb9.png)
+
+6. Attach the bearing with the middle filament guide onto plunger with an M3x8 BHCS
+![image](https://user-images.githubusercontent.com/25805271/227234943-1ed15942-49e8-4245-a044-24d5fd354872.png)
