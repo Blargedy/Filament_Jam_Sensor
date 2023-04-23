@@ -1,6 +1,8 @@
 # Tasty-Sensor
 A sensor that detects jams made of organic home-grown filament, and also runout.
 
+![image](https://user-images.githubusercontent.com/25805271/233827839-d4af8fbe-ae27-4739-b720-b4ffe2a7b9f4.png)
+
 The Tasty-Sensor detects if the filament gets stuck on the way to the nozzle, or if the filament ran out but didn't get jammed like it usually does.
 
 I needed a sensor that detects when the filament runs out, but I couldn't find one that worked for me, so I designed my own. A regular runout sensor sometimes worked if the hook at the end of a spool was gentle enough to slip through the sensor, but almost always the filament got stuck on the end of the sensor and the print failed silently. Sensors that check for filament movement (such as the BTT Smart Filament Sensor) gave me too many false positives even after the recommended tuning and adjustment. The sensor that got the closest to what I wanted is the SpEye by MirageC [thingiverse](https://www.thingiverse.com/thing:4299458) | [docs.hevort](http://docs.hevort.com/#/pages/Mods/spy-eye.md)
@@ -91,6 +93,14 @@ The primary drawbacks of this design are:
 13. (Optional) Attach the tasty-sensor to your printer frame with the standoffs and M3x25 SHCS
 ![image](https://user-images.githubusercontent.com/25805271/227245259-b0b99817-debb-4764-b083-bdb4ab3c0e50.png)
 
-14. Connect Vcc, Signal, and Ground to the optical endstop
+14. Connect 5v, Signal, and Ground to the optical endstop
 
-15. Configure the correct pin as an endstop
+15. Add the following to your printer.cfg file:
+```
+[filament_switch_sensor filament_sensor]
+switch_pin: !<your pin>
+pause_on_runout: True
+insert_gcode:
+    M117 Insert Detected
+runout_gcode:
+    M117 Runout Detected
