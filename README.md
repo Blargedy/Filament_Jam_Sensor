@@ -1,7 +1,9 @@
 # Tasty-Sensor
 A sensor that detects jams made of organic home-grown filament, and also runout.
 
-![image](https://user-images.githubusercontent.com/25805271/233827839-d4af8fbe-ae27-4739-b720-b4ffe2a7b9f4.png)
+![20230521_024540](https://github.com/Blargedy/Tasty_Sensor-A_Filament_Jam_and_Runout_Sensor/assets/25805271/ec5eebe4-cf4f-431b-842a-fcc315797377)
+
+![20230521_025040](https://github.com/Blargedy/Tasty_Sensor-A_Filament_Jam_and_Runout_Sensor/assets/25805271/eb0f8fcc-b289-4426-813b-3d47cd0f4420)
 
 The Tasty-Sensor detects if the filament gets stuck on the way to the nozzle, or if the filament ran out but didn't get jammed like it usually does.
 
